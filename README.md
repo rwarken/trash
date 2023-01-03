@@ -6,4 +6,4 @@ Append a second line on feature branch.
 
 This a third line  on feature branch.
 
-Fix a bug again.
+Solving conflicts.
